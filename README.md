@@ -1,5 +1,5 @@
-<h1>Nom-Projet : Apple Home Remake</h1>
-<h1>Date : 12/2021</h1>
-<h1>Description : Ceci est une description de test</h1>
-<h1>Langages-Utilisés : ["HTML", "CSS", "JS", "REACT.JS"]</h1>
-<h1>Lien-Projet : https://samuel-dd07.github.io/Apple-Home-Remake/</h1>
+<h3>Nom-Projet : Apple Home Remake</h3>
+<h3>Date : 12/2021</h3>
+<h3>Description : Ceci est une description de test</h3>
+<h3>Langages-Utilisés : ["HTML", "CSS", "JS", "REACT.JS"]</h3>
+<h3>Lien-Projet : https://samuel-dd07.github.io/Apple-Home-Remake/</h3>
